@@ -8,7 +8,7 @@ And then countdown will start with music and all the screen colors will change(n
 
 # Git Clone
 
-As you can see I don't have "node_modules" folder. It is heavy to upload. After git clone you need to run "npm i" before "npm start". It will download all the packages.
+As you can see I don't have "node_modules" folder. It is heavy to upload. After git clone you need to run **"npm i"** before **"npm start"**. It will download all the packages.
 
 # Modules
 
