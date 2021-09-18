@@ -1,7 +1,7 @@
 # Trickdown
 
 Trickdown is a trick app to use for your friends. It is very easy to use just click on button then button will disappear **(It means you can't get back)**.
-And then countdown will start with the music and all the screen colors will change(not background).
+And then countdown will start with music and all the screen colors will change(not background).
 
 ![appimg](https://user-images.githubusercontent.com/60935451/133891719-775641bd-ef2f-4424-aad0-6d34a731d29a.jpeg)
 
